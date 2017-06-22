@@ -13,3 +13,5 @@ When a user requests information about a place, they lose a point, when answerin
 Each location that receives content would display content to users on a map based on time first. So for example, if a location has received 10 videos all within the last 10 minutes, the latest video would be shown first but also based on the point system.  
 
 So that a location is not overwhelmed with content. We will display up to 6 videos per location until new content is added. Historical videos will only be kept if nothing new is added to a location. 
+
+Link to project: https://github.com/ljmatth1/ASUSkoovy
