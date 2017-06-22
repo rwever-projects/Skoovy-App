@@ -3,7 +3,7 @@
 #### Authors: Rudi Wever, Anthony Kowal, Tyler Cole, Lily Matthews
 #### Languages: Java
 
-![Skoovy Login screenshot](https://github.com/rwever-projects/Skoovy-App/blob/master/SkoovyLoginScreenshot.png) ![Skoovy Profile screenshot](https://github.com/rwever-projects/Skoovy-App/blob/master/SkoovyProfileScreenshot.png)
+![Skoovy Login screenshot](https://github.com/rwever-projects/Skoovy-App/blob/master/SkoovyLoginScreenshot.png) ![Skoovy Profile screenshot](https://github.com/rwever-projects/Skoovy-App/blob/master/SkoovyProfileScreenshot.png)![Skoovy Camera screenshot](https://github.com/rwever-projects/Skoovy-App/blob/master/SkoovyCameraWithVideo.gif)
 
 
 Skoovy is a social network whereby users can post short videos to the community publicly or to their friends privately. Each video is posted to a geo-location on a map and associated with hash-tags and a category. Users can not only post at will to the site but users can also request information in the form of a video based on a specific location and time of day. 
